@@ -1,11 +1,11 @@
 {
-    "name": "mine_buddy",
-    "short_name": "mine_buddy",
+    "name": "Mine-Buddy",
+    "short_name": "Mine-Buddy",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#303030",
-    "theme_color": "#5043B7",
-    "description": "A new Flutter project.",
+    "background_color": "#c3d5c7",
+    "theme_color": "#004e15",
+    "description": "Mine-Buddy",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
