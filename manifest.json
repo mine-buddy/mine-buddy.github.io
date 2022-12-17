@@ -3,7 +3,7 @@
     "short_name": "Mine-Buddy",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#c3d5c7",
+    "background_color": "#1c2920",
     "theme_color": "#004e15",
     "description": "Mine-Buddy",
     "orientation": "portrait-primary",
