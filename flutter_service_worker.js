@@ -21,7 +21,7 @@ const RESOURCES = {
 "splash/img/light-1x.png": "dfbe204d2da23277baf7d734efb00c0a",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
 "splash/style.css": "e6d7e19be386e363a611d5667912e2b0",
-"main.dart.js": "53e9bb64c61bf3f78279583a14130e8c",
+"main.dart.js": "e5a41fa61db0674296da21221f6d6596",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
@@ -43,8 +43,8 @@ const RESOURCES = {
 "assets/assets/branding.png": "e4d8ac25371d3b5496d4dac0e5fbd2fa",
 "assets/assets/icon.png": "cfbcde115e7000c2eb9e034b387b296b",
 "assets/NOTICES": "7e230cc7ba62ac1ca1a9a2cbee4c3161",
-"index.html": "f8cab6093c9fe4f44c6fedf1e4da2dc8",
-"/": "f8cab6093c9fe4f44c6fedf1e4da2dc8",
+"index.html": "4ff1ed6accf87660750daf38392cf213",
+"/": "4ff1ed6accf87660750daf38392cf213",
 "favicon.png": "ed84e13599e5c31249e7e76b9a68774b",
 "version.json": "0280cd63e9f242515d46085b7822e700"
 };
