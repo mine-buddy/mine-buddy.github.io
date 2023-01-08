@@ -43,8 +43,8 @@ const RESOURCES = {
 "assets/assets/branding.png": "e4d8ac25371d3b5496d4dac0e5fbd2fa",
 "assets/assets/icon.png": "cfbcde115e7000c2eb9e034b387b296b",
 "assets/NOTICES": "c2e39a1799aa59c3b698d191079cb1fb",
-"index.html": "99389cfbb5abe869d5b59058754d451a",
-"/": "99389cfbb5abe869d5b59058754d451a",
+"index.html": "a2a7f3b729c445aae06c960022b25888",
+"/": "a2a7f3b729c445aae06c960022b25888",
 "favicon.png": "ed84e13599e5c31249e7e76b9a68774b",
 "version.json": "0280cd63e9f242515d46085b7822e700"
 };
