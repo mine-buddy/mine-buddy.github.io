@@ -21,7 +21,7 @@ const RESOURCES = {
 "splash/img/light-1x.png": "dfbe204d2da23277baf7d734efb00c0a",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
 "splash/style.css": "e6d7e19be386e363a611d5667912e2b0",
-"main.dart.js": "e5a41fa61db0674296da21221f6d6596",
+"main.dart.js": "67ff5988e82fb2a32a54a224203b197b",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
@@ -42,9 +42,9 @@ const RESOURCES = {
 "assets/assets/Monocraft.otf": "c6391aa65c1d0078d1f6417ee84bf469",
 "assets/assets/branding.png": "e4d8ac25371d3b5496d4dac0e5fbd2fa",
 "assets/assets/icon.png": "cfbcde115e7000c2eb9e034b387b296b",
-"assets/NOTICES": "7e230cc7ba62ac1ca1a9a2cbee4c3161",
-"index.html": "4ff1ed6accf87660750daf38392cf213",
-"/": "4ff1ed6accf87660750daf38392cf213",
+"assets/NOTICES": "c2e39a1799aa59c3b698d191079cb1fb",
+"index.html": "99389cfbb5abe869d5b59058754d451a",
+"/": "99389cfbb5abe869d5b59058754d451a",
 "favicon.png": "ed84e13599e5c31249e7e76b9a68774b",
 "version.json": "0280cd63e9f242515d46085b7822e700"
 };
