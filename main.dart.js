@@ -87079,7 +87079,7 @@ A.aw5.prototype={
 $1(a){var s=$.kt
 a.a=(s==null?$.kt=A.An(B.cQ):s).d.j(0,"sentryDns")
 s=$.kt
-a.cx=(s==null?$.kt=A.An(B.cQ):s).d.j(0,"dev")
+a.cx=(s==null?$.kt=A.An(B.cQ):s).d.j(0,"sentryEnv")
 a.ax=new A.aw4()
 a.R8=1},
 $S:503}
