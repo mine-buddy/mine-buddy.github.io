@@ -29796,6 +29796,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
 json_annotation
+json_serializable
 platform
 
 Copyright 2017, the Dart project authors. All rights reserved.
