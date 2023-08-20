@@ -93876,7 +93876,8 @@ break
 case 1:return A.B(q,r)}})
 return A.C($async$bq,r)}}
 A.aFf.prototype={
-$2(a,b){if(b.c==="/")return A.aGZ("/",A.a8(["world-id",this.a],t.N,t.z))
+$2(a,b){var s=b.c
+if(s===""||s==="/")return A.aGZ("/",A.a8(["world-id",this.a],t.N,t.z))
 return null},
 $S:553}
 A.zc.prototype={
