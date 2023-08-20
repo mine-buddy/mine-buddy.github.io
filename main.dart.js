@@ -27945,7 +27945,7 @@ p=$.eq()
 p=p.gmr(p).go
 p===$&&A.a()
 p.iV("UINavigationTracing")
-return A.b_y(!1,s,A.b([new A.Ud(r,q,A.t(t.aK,t.Qd))],t.tc),new A.aFd(),o)},
+return A.b_y(!1,s,A.b([new A.Ud(r,q,A.t(t.aK,t.Qd))],t.tc),new A.aFd(b),o)},
 aTu(a){return B.Ez},
 aTw(a){var s=a.r.i(0,"worldId")
 s.toString
@@ -27957,7 +27957,7 @@ a=a+((a&524287)<<10)&536870911
 return a^a>>>6},
 aHJ(a){var s=null
 return new A.Fj(a,new A.an0(a),s,B.Fc,s,"routerProvider",s,s)},
-aFd:function aFd(){},
+aFd:function aFd(a){this.a=a},
 zb:function zb(a){this.a=a},
 vd:function vd(){},
 za:function za(){},
@@ -93873,7 +93873,7 @@ break
 case 1:return A.B(q,r)}})
 return A.C($async$bq,r)}}
 A.aFd.prototype={
-$2(a,b){if(b.c==="/")return A.aGX("/world/"+A.os(B.rf,"no-world",B.R,!1))
+$2(a,b){if(b.c==="/")return A.aGX("/world/"+A.os(B.rf,this.a,B.R,!1))
 return null},
 $S:553}
 A.zb.prototype={
@@ -93883,7 +93883,7 @@ anR(a,b,c){var s,r=null,q=b.c
 $label0$0:{if("/world/:worldId/locations"===q)break $label0$0
 if("/world/:worldId/todos"===q)break $label0$0
 break $label0$0}s=A.fm(q,r,r,r,r,r,r)
-return new A.Mz(A.jg(A.b([s,A.fm("nix",r,r,r,r,r,r)],t.p),B.au,B.b4,B.aV),B.mj,r)}}
+return new A.Mz(A.jg(A.b([s,A.fm("olm no nix",r,r,r,r,r,r)],t.p),B.au,B.b4,B.aV),B.mj,r)}}
 A.za.prototype={
 kH(a,b){return B.a8U}}
 A.zc.prototype={
