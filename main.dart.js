@@ -28675,7 +28675,7 @@ l=A.Ds(a,!0)
 s=2
 return A.u(l.jw(A.aYF(null,B.R,!0,null,new A.aFl(),a,null,q,B.CZ,!0,t.u)),$async$a4C)
 case 2:p=d
-if(p!=null){l=$.aFN()
+if(a.f!=null&&p!=null){l=$.aFN()
 o=l.ch
 if(o===$){n=l.$ti
 m=A.b5C(l,n.c,n.z[1])
