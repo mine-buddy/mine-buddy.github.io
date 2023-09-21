@@ -7843,6 +7843,7 @@ path_provider_foundation
 path_provider_linux
 path_provider_platform_interface
 path_provider_windows
+platform
 plugin_platform_interface
 shared_preferences
 shared_preferences_android
@@ -7892,9 +7893,11 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 flutter_flavor
 
+# License
+
 MIT License
 
-Copyright (c) 2020 
+Copyright (c) 2020
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -7913,6 +7916,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 --------------------------------------------------------------------------------
 flutter_gen_core
 flutter_gen_runner
@@ -30558,7 +30562,6 @@ SOFTWARE.
 --------------------------------------------------------------------------------
 json_annotation
 json_serializable
-platform
 
 Copyright 2017, the Dart project authors. All rights reserved.
 Redistribution and use in source and binary forms, with or without
